@@ -1,8 +1,6 @@
-/*
-Al presionar el  botón, 
-se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
+/* Trabajo de Acuña Lucas*/
 function mostrar()
 {
-	alert("Hola Mundo");
+	alert("Hola a todo el mundo GitHub");
 }
 
